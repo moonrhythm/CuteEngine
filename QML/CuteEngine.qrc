@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/CuteEngine">
+        <file>qmldir</file>
+        <file>Background.qml</file>
+        <file>BGM.qml</file>
+        <file>Button.qml</file>
+        <file>CuteObject.qml</file>
+        <file>Game.qml</file>
+        <file>Image.qml</file>
+        <file>lib.js</file>
+        <file>Map.qml</file>
+        <file>Page.qml</file>
+        <file>Player.qml</file>
+        <file>Scene.qml</file>
+        <file>Source.qml</file>
+        <file>Sequence.qml</file>
+        <file>SFX.qml</file>
+        <file>TextBox.qml</file>
+        <file>Transitor.qml</file>
+        <file>Video.qml</file>
+        <file>MapBlock.qml</file>
+        <file>MapItem.qml</file>
+        <file>MapWarp.qml</file>
+        <file>NPC.qml</file>
+        <file>AnimatedButton.qml</file>
+    </qresource>
+</RCC>
